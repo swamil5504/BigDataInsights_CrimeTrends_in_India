@@ -39,7 +39,7 @@ crimes_df.show()
 ## Dataset
 The dataset contains records of various crimes across districts in India, covering the years from 2001 to 2012. It includes detailed statistics on different crime types, including murder, theft, dacoity, crimes against children, etc. Given the dataset's size, it’s hosted on **Amazon S3** for easier access and efficient processing.
 
-Alternatively, the **dataset.zip** file is available in this repository if you prefer to download it locally.
+Alternatively, the **.zip** file is available in this repository if you prefer to download it locally.
 
 ## Key Technologies
 - **Amazon S3**: Used as a scalable cloud storage solution to host the dataset.
